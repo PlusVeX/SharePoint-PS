@@ -1,0 +1,2 @@
+Get-SPOTennant https://site-admin.sharepoint.com/
+Test-SPOSite https://site.sharepoint.com/[subsite]
