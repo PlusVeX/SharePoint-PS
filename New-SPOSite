@@ -1,0 +1,2 @@
+New-SPOSite -Url https://contoso.sharepoint.com/sites/mynewsite -Owner joe.healy@contoso.com -StorageQuota 1000 -Title "My new site collection"
+createsa new site collection for the current company with specified site URL, title and owner. The storage quota is set to 1000 megabytes
